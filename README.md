@@ -1,7 +1,7 @@
 Potcoin integration/staging tree
 ================================
 
-http://www.potcoin.info
+http://www.potcoin.com
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2014-2014 Potcoin Developers
@@ -19,7 +19,7 @@ Potcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - P2P-PORT : 4200
  
 For more information, as well as an immediately useable, binary version of
-the Potcoin client sofware, see http://www.potcoin.info.
+the Potcoin client sofware, see http://www.potcoin.com.
 
 P2Pool Settings
 ----------------
